@@ -155,6 +155,12 @@ npx playwright show-report
 - Page Object Model (POM)
 
 ---
+## Project Documents
+
+- **Manual Test Cases:** `TestCases/Login-Signup.xlsx`
+
+- **Defect Report:** `DefectReports/QA_Defect_Reports.docx`
+
 
 ## Author
 
