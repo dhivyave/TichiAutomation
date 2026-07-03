@@ -158,9 +158,17 @@ npx playwright show-report
 ## Project Documents
 ## 📂 Project Documents
 
-- 📄 **Manual Test Cases:** [Login-Signup.xlsx](./TestCases/Login-Signup.xlsx)
+## 📂 Project Documents
 
-- 🐞 **Defect Report:** [QA_Defect_Reports.docx](./DefectReports/QA_Defect_Reports.docx)
+## 📂 Project Documents
+
+- 📄 **Manual Test Cases (Excel):** [Login-Signup.xlsx](./TestCases/Login-Signup.xlsx)
+
+- 📄 **Manual Test Cases (PDF):** [Login-Signup.pdf](./TestCases/Login-Signup.pdf)
+
+- 🐞 **Defect Report (Word):** [QA_Defect_Reports.docx](./DefectReports/QA_Defect_Reports.docx)
+
+- 🐞 **Defect Report (PDF):** [QA_Defect_Reports.pdf](./DefectReports/QA_Defect_Reports.pdf)
 
 
 ## Author
